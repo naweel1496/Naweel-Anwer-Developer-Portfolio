@@ -77,3 +77,4 @@ Our enum comparison has now clarity. It's readable
 Thus our code becomes more readable and reusable.
 
 For more information on comparison protocol you refer to [this](http://nshipster.com/swift-comparison-protocols/) post written by [Matt Thompson](http://nshipster.com/authors/mattt-thompson/) on NSHipster.
+
