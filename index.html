@@ -2,19 +2,17 @@
 layout: default
 ---
 
-<div class="home">
+<div class="home-page" style="text-align: center">
+  
+  <img class="img-circle" src="https://avatars3.githubusercontent.com/u/2352321?v=3&amp;s=460" height="230" width="230">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1>Kaunteya Suryawanshi</h1>
+  iOS Developer @ <a href="http://wingify.com/pune/">Wingify Software</a>
+  
+  <p><a href="/blog" >Blog</a></p>
+  <p><a href="{{ site.link_to.twitter }}">Twitter</a></p>
+  <p><a href="{{ site.link_to.github }}">GitHub</a></p>
+  <p><a href="{{ site.link_to.linkedin }}">LinkedIn</a></p>
+  <p><a href="mailto: {{site.email}}">Email</a></p>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
 </div>

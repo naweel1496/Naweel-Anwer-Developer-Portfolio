@@ -1,3 +1,10 @@
+/** 
+ * Circle mask to image
+ */
+.img-circle {
+  border-radius: 50%;
+}
+
 /**
  * Site header
  */
@@ -166,9 +173,7 @@
     padding: $spacing-unit 0;
 }
 
-.page-heading {
-    font-size: 20px;
-}
+
 
 .post-list {
     margin-left: 0;

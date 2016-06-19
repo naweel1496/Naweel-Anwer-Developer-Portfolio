@@ -13,5 +13,20 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: kaunteya28
 github_username:  Kaunteya
 
+permalink:  none
+
 # Build settings
 markdown: kramdown
+
+# /:categories/:title.html
+permalink: none
+
+# URLS
+link_to:
+  facebook:        https://www.facebook.com/kaunteya
+  github: https://github.com/kaunteya
+  twitter:         https://twitter.com/kaunteya28
+  linkedin:        https://in.linkedin.com/pub/kaunteya-suryawanshi/3b/51b/7a
+  cocoa_all_pods:  https://cocoapods.org/owners/7316
+  itunes_all_apps: https://itunes.apple.com/us/developer/kaunteya-suryawanshi/id927381428
+  github_profile_pic: https://avatars3.githubusercontent.com/u/2352321?v=3&s=460
