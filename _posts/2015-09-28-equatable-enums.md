@@ -73,8 +73,7 @@ Vehicle.Other("tractor") == Vehicle.Other("tractor") // true
 Vehicle.Other("tractor") == Vehicle.Other("crane")   // false
 
 {% endhighlight %}
-Our enum comparison has now clarity. It's readable
-Thus our code becomes more readable and reusable.
+Our enum comparison has now clarity and brevity. And most important it's readable
 
 For more information on comparison protocol you refer to [this](http://nshipster.com/swift-comparison-protocols/) post written by [Matt Thompson](http://nshipster.com/authors/mattt-thompson/) on NSHipster.
 

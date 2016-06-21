@@ -32,7 +32,7 @@ body {
  * Set `margin-bottom` to maintain vertical rhythm
  */
 p {
-  margin-bottom: 8;
+  margin-bottom: 8px;
 }
 
 h1, h2, h3, h4, h5, h6,
@@ -136,7 +136,7 @@ code {
     font-size: 15px;
     border: 1px solid $grey-color-light;
     border-radius: 3px;
-    background-color: #f7f7f7;
+    background-color: #dedede;
 }
 
 code {
