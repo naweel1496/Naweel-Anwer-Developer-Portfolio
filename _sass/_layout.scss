@@ -218,8 +218,9 @@
 
     h2 {
         font-size: 32px;
+        font-weight: bold;
         margin-top: 20px;
-        border-bottom: 1px solid #eee;
+        border-bottom: 1px solid #c7c7c7;
         @include media-query($on-laptop) {
             font-size: 28px;
         }
@@ -227,7 +228,7 @@
 
     h3 {
         font-size: 26px;
-        margin-top: 15px;
+        margin-top: 10px;
         @include media-query($on-laptop) {
             font-size: 22px;
         }
@@ -235,10 +236,14 @@
 
     h4 {
         font-size: 20px;
-        margin-top: 10px;
+        margin-top: 5px;
         @include media-query($on-laptop) {
             font-size: 18px;
         }
     }
 
+}
+.post-footer {
+  text-align: center;
+  margin-top: 50px;
 }
