@@ -4,7 +4,7 @@ title: Awesome swift libraries
 category: Swift
 ---
 
-Some of the libraries that I use frequently
+## Some of the libraries that I use frequently
 
 #### [AFDateHelper](https://github.com/melvitax/AFDateHelper)
 A must have date helper for Swift
@@ -22,4 +22,10 @@ More readable JSON code
 Type safe User defaults
 
 #### [XCGLogger](https://github.com/DaveWoodCom/XCGLogger)
+Logging library
 
+#### [LayoutKit](https://github.com/linkedin/LayoutKit)
+Autolayout library by Linkedin.
+
+#### [SnapKit](https://github.com/SnapKit/SnapKit)
+[DSL](https://en.wikipedia.org/wiki/Domain-specific_language) to make autolayout easy on iOS and macOS
