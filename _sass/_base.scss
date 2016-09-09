@@ -35,13 +35,22 @@ p {
   margin-bottom: 8px;
 }
 
+p.main_links {
+  margin-top: 30px;
+  > a {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
 h1, h2, h3, h4, h5, h6,
 blockquote, pre, ul, ol, dl, figure,
 %vertical-rhythm {
     margin-bottom: 2px;
 }
 
-
+h1.main_name {
+  font-size: 50px;
+}
 
 /**
  * Images
@@ -97,10 +106,6 @@ h1, h2, h3, h4, h5, h6 {
 a {
     color: $brand-color;
     text-decoration: none;
-
-    &:visited {
-        color: darken($brand-color, 15%);
-    }
 
     &:hover {
         color: darken($brand-color, 65%);;
