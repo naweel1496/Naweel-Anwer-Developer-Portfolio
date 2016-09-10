@@ -1,0 +1,9 @@
+'APNS Push':
+  name: APNS Push
+  image: http://is2.mzstatic.com/image/thumb/Purple71/v4/c7/73/c8/c773c833-79b9-db35-417a-27fb8feb788e/source.icns/100x100bb.png
+  description: Push notifications to your iOS App
+  
+'Air Browser':
+  name: Air Browser
+  image: http://is4.mzstatic.com/image/thumb/Purple5/v4/eb/36/a2/eb36a263-5c18-cd83-8ea0-fbe3b47b1b95/source.icns/60x60bb.png
+  description: Background browser
