@@ -16,6 +16,10 @@ _site
 *.gem
 *~
 
+#Xcode
+*.pbxuser
+*.xcuserstate
+
 # OS or Editor folders
 .DS_Store
 ._*

@@ -1,0 +1,202 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		E30F620E1D8441BE00A67081 /* _config_dev.yml */ = {isa = PBXFileReference; lastKnownFileType = text; path = _config_dev.yml; sourceTree = "<group>"; };
+		E30F620F1D8441BE00A67081 /* _config.yml */ = {isa = PBXFileReference; lastKnownFileType = text; path = _config.yml; sourceTree = "<group>"; };
+		E30F62111D8441BE00A67081 /* apps.yml */ = {isa = PBXFileReference; lastKnownFileType = text; path = apps.yml; sourceTree = "<group>"; };
+		E30F62131D8441BE00A67081 /* 2016-06-21-Mac-Hacks.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2016-06-21-Mac-Hacks.md"; sourceTree = "<group>"; };
+		E30F62141D8441BE00A67081 /* 2016-06-28-Swift-Change-Log.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2016-06-28-Swift-Change-Log.md"; sourceTree = "<group>"; };
+		E30F62151D8441BE00A67081 /* 2016-07-20-My-Terminal.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2016-07-20-My-Terminal.md"; sourceTree = "<group>"; };
+		E30F62161D8441BE00A67081 /* 2016-08-04-Mainting-Macbook.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2016-08-04-Mainting-Macbook.md"; sourceTree = "<group>"; };
+		E30F62171D8441BE00A67081 /* 2016-08-22-iOS-App-development.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2016-08-22-iOS-App-development.md"; sourceTree = "<group>"; };
+		E30F62191D8441BE00A67081 /* footer.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = footer.html; sourceTree = "<group>"; };
+		E30F621A1D8441BE00A67081 /* head.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = head.html; sourceTree = "<group>"; };
+		E30F621B1D8441BE00A67081 /* header.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = header.html; sourceTree = "<group>"; };
+		E30F621C1D8441BE00A67081 /* icon-github.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "icon-github.html"; sourceTree = "<group>"; };
+		E30F621D1D8441BE00A67081 /* icon-github.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "icon-github.svg"; sourceTree = "<group>"; };
+		E30F621E1D8441BE00A67081 /* icon-twitter.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "icon-twitter.html"; sourceTree = "<group>"; };
+		E30F621F1D8441BE00A67081 /* icon-twitter.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "icon-twitter.svg"; sourceTree = "<group>"; };
+		E30F62211D8441BE00A67081 /* default.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = default.html; sourceTree = "<group>"; };
+		E30F62221D8441BE00A67081 /* page.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = page.html; sourceTree = "<group>"; };
+		E30F62231D8441BE00A67081 /* post.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = post.html; sourceTree = "<group>"; };
+		E30F62251D8441BE00A67081 /* 2015-09-28-equatable-enums.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2015-09-28-equatable-enums.md"; sourceTree = "<group>"; };
+		E30F62261D8441BE00A67081 /* 2015-10-23-reduce-tryouts-in-swift.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2015-10-23-reduce-tryouts-in-swift.md"; sourceTree = "<group>"; };
+		E30F62271D8441BE00A67081 /* 2016-07-14-Awesome-Swift-Libraries.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2016-07-14-Awesome-Swift-Libraries.md"; sourceTree = "<group>"; };
+		E30F62281D8441BE00A67081 /* 2016-08-22-Generic-Array-in-Swift.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2016-08-22-Generic-Array-in-Swift.md"; sourceTree = "<group>"; };
+		E30F62291D8441BE00A67081 /* 2016-08-22-uiimageview-image-from-url.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2016-08-22-uiimageview-image-from-url.md"; sourceTree = "<group>"; };
+		E30F622A1D8441BE00A67081 /* 2016-09-04-pop-in-swift.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2016-09-04-pop-in-swift.md"; sourceTree = "<group>"; };
+		E30F622B1D8441BE00A67081 /* 2016-09-09-multipart-request-in-swift.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "2016-09-09-multipart-request-in-swift.md"; sourceTree = "<group>"; };
+		E30F622D1D8441BE00A67081 /* _base.scss */ = {isa = PBXFileReference; lastKnownFileType = text; path = _base.scss; sourceTree = "<group>"; };
+		E30F622E1D8441BE00A67081 /* _layout.scss */ = {isa = PBXFileReference; lastKnownFileType = text; path = _layout.scss; sourceTree = "<group>"; };
+		E30F622F1D8441BE00A67081 /* _syntax-highlighting.scss */ = {isa = PBXFileReference; lastKnownFileType = text; path = "_syntax-highlighting.scss"; sourceTree = "<group>"; };
+		E30F62301D8441BE00A67081 /* about.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = about.md; sourceTree = "<group>"; };
+		E30F62311D8441BE00A67081 /* apps.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = apps.md; sourceTree = "<group>"; };
+		E30F62321D8441BE00A67081 /* blog.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = blog.md; sourceTree = "<group>"; };
+		E30F62341D8441BE00A67081 /* main.scss */ = {isa = PBXFileReference; lastKnownFileType = text; path = main.scss; sourceTree = "<group>"; };
+		E30F62351D8441BE00A67081 /* feed.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = feed.xml; sourceTree = "<group>"; };
+		E30F62361D8441BE00A67081 /* Gemfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Gemfile; sourceTree = "<group>"; };
+		E30F62371D8441BE00A67081 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		E30F62381D8441BE00A67081 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		E30F62391D8441BE00A67081 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		E30F623A1D8441EC00A67081 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		E30F62071D84419500A67081 = {
+			isa = PBXGroup;
+			children = (
+				E30F620E1D8441BE00A67081 /* _config_dev.yml */,
+				E30F620F1D8441BE00A67081 /* _config.yml */,
+				E30F62101D8441BE00A67081 /* _data */,
+				E30F62121D8441BE00A67081 /* _drafts */,
+				E30F62181D8441BE00A67081 /* _includes */,
+				E30F62201D8441BE00A67081 /* _layouts */,
+				E30F62241D8441BE00A67081 /* _posts */,
+				E30F622C1D8441BE00A67081 /* _sass */,
+				E30F62301D8441BE00A67081 /* about.md */,
+				E30F62311D8441BE00A67081 /* apps.md */,
+				E30F62321D8441BE00A67081 /* blog.md */,
+				E30F62331D8441BE00A67081 /* css */,
+				E30F62351D8441BE00A67081 /* feed.xml */,
+				E30F623A1D8441EC00A67081 /* .gitignore */,
+				E30F62361D8441BE00A67081 /* Gemfile */,
+				E30F62371D8441BE00A67081 /* index.html */,
+				E30F62381D8441BE00A67081 /* LICENSE */,
+				E30F62391D8441BE00A67081 /* README.md */,
+			);
+			sourceTree = "<group>";
+		};
+		E30F62101D8441BE00A67081 /* _data */ = {
+			isa = PBXGroup;
+			children = (
+				E30F62111D8441BE00A67081 /* apps.yml */,
+			);
+			path = _data;
+			sourceTree = "<group>";
+		};
+		E30F62121D8441BE00A67081 /* _drafts */ = {
+			isa = PBXGroup;
+			children = (
+				E30F62131D8441BE00A67081 /* 2016-06-21-Mac-Hacks.md */,
+				E30F62141D8441BE00A67081 /* 2016-06-28-Swift-Change-Log.md */,
+				E30F62151D8441BE00A67081 /* 2016-07-20-My-Terminal.md */,
+				E30F62161D8441BE00A67081 /* 2016-08-04-Mainting-Macbook.md */,
+				E30F62171D8441BE00A67081 /* 2016-08-22-iOS-App-development.md */,
+			);
+			path = _drafts;
+			sourceTree = "<group>";
+		};
+		E30F62181D8441BE00A67081 /* _includes */ = {
+			isa = PBXGroup;
+			children = (
+				E30F62191D8441BE00A67081 /* footer.html */,
+				E30F621A1D8441BE00A67081 /* head.html */,
+				E30F621B1D8441BE00A67081 /* header.html */,
+				E30F621C1D8441BE00A67081 /* icon-github.html */,
+				E30F621D1D8441BE00A67081 /* icon-github.svg */,
+				E30F621E1D8441BE00A67081 /* icon-twitter.html */,
+				E30F621F1D8441BE00A67081 /* icon-twitter.svg */,
+			);
+			path = _includes;
+			sourceTree = "<group>";
+		};
+		E30F62201D8441BE00A67081 /* _layouts */ = {
+			isa = PBXGroup;
+			children = (
+				E30F62211D8441BE00A67081 /* default.html */,
+				E30F62221D8441BE00A67081 /* page.html */,
+				E30F62231D8441BE00A67081 /* post.html */,
+			);
+			path = _layouts;
+			sourceTree = "<group>";
+		};
+		E30F62241D8441BE00A67081 /* _posts */ = {
+			isa = PBXGroup;
+			children = (
+				E30F62251D8441BE00A67081 /* 2015-09-28-equatable-enums.md */,
+				E30F62261D8441BE00A67081 /* 2015-10-23-reduce-tryouts-in-swift.md */,
+				E30F62271D8441BE00A67081 /* 2016-07-14-Awesome-Swift-Libraries.md */,
+				E30F62281D8441BE00A67081 /* 2016-08-22-Generic-Array-in-Swift.md */,
+				E30F62291D8441BE00A67081 /* 2016-08-22-uiimageview-image-from-url.md */,
+				E30F622A1D8441BE00A67081 /* 2016-09-04-pop-in-swift.md */,
+				E30F622B1D8441BE00A67081 /* 2016-09-09-multipart-request-in-swift.md */,
+			);
+			path = _posts;
+			sourceTree = "<group>";
+		};
+		E30F622C1D8441BE00A67081 /* _sass */ = {
+			isa = PBXGroup;
+			children = (
+				E30F622D1D8441BE00A67081 /* _base.scss */,
+				E30F622E1D8441BE00A67081 /* _layout.scss */,
+				E30F622F1D8441BE00A67081 /* _syntax-highlighting.scss */,
+			);
+			path = _sass;
+			sourceTree = "<group>";
+		};
+		E30F62331D8441BE00A67081 /* css */ = {
+			isa = PBXGroup;
+			children = (
+				E30F62341D8441BE00A67081 /* main.scss */,
+			);
+			path = css;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		E30F62081D84419500A67081 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+			};
+			buildConfigurationList = E30F620B1D84419500A67081 /* Build configuration list for PBXProject "Blog" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = E30F62071D84419500A67081;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		E30F620C1D84419500A67081 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		E30F620D1D84419500A67081 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E30F620B1D84419500A67081 /* Build configuration list for PBXProject "Blog" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E30F620C1D84419500A67081 /* Debug */,
+				E30F620D1D84419500A67081 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E30F62081D84419500A67081 /* Project object */;
+}
