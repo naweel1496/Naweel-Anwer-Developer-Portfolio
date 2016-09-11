@@ -48,20 +48,6 @@ blockquote, pre, ul, ol, dl, figure,
     margin-bottom: 2px;
 }
 
-h1.main_name {
-  font-size: 50px;
-}
-
-/**
- * Images
- */
-img {
-    max-width: 100%;
-    vertical-align: middle;
-}
-
-
-
 /**
  * Figures
  */
@@ -97,7 +83,9 @@ li {
 h1, h2, h3, h4, h5, h6 {
     font-weight: $base-font-weight;
 }
-
+h1 {
+  color: black
+}
 
 
 /**
@@ -160,7 +148,25 @@ pre {
 }
 
 div.home-page {
-    text-align: center;
+  text-align: center;
+  padding-top: 80px;
+  img.photo {
+    border-radius: 50%;
+  }
+  h1 {
+    font-size: 50px;
+  }
+  p.links {
+    margin-top: 30px;
+    a {
+      padding: 0px 10px;
+      img {
+        height: 13px;
+        padding-right: 5px;
+        vertical-align: middle;
+      }
+    }
+  }
 }
 
 /**
@@ -233,7 +239,7 @@ div.my-apps {
         vertical-align: middle;
 
         path {
-            fill: $grey-color;
+            fill: $brand-color;
         }
     }
 }

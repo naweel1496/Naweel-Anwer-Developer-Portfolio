@@ -3,7 +3,7 @@ layout: default
 permalink: /apps/
 ---
 <div class="my-apps">
-  <header>My Apps</header>
+  <h1>My Apps</h1>
   {% for app in site.data.apps %}
   <section style="text-align:{% cycle 'left', 'right' %}" >
     <img src="{{ app.image }}">
