@@ -1,9 +1,21 @@
-'APNS Push':
-  name: APNS Push
+- name: APNS Push
   image: http://is2.mzstatic.com/image/thumb/Purple71/v4/c7/73/c8/c773c833-79b9-db35-417a-27fb8feb788e/source.icns/100x100bb.png
-  description: Push notifications to your iOS App
+  subtitle: Push notifications to your iOS App
+  description: APNS Push sends notification over newly introduced HTTP/2 connection. Seamlessly send notifications to your iPhone, iPad, Mac and Safari
+  appstore_url: https://itunes.apple.com/us/app/apns-push/id1137371380?mt=12
   
-'Air Browser':
-  name: Air Browser
-  image: http://is4.mzstatic.com/image/thumb/Purple5/v4/eb/36/a2/eb36a263-5c18-cd83-8ea0-fbe3b47b1b95/source.icns/60x60bb.png
-  description: Background browser
+- name: Air Browser
+  image: http://is3.mzstatic.com/image/thumb/Purple69/v4/e3/d8/1e/e3d81e37-cd99-1671-a6c4-2c877fcffc7b/source.icns/100x100bb.png
+  subtitle: Background browser
+  description: |
+    With Air Browser, all your favorite websites are pre-loaded in the background, easily accessible from menubar.
+    An easy to configure app, air browser lets you take charge of your favorite websites the way you want.  
+  appstore_url: https://itunes.apple.com/us/app/air-browser/id948620309?mt=12
+
+- name: WorkFlowy MenuApp 
+  image: http://is3.mzstatic.com/image/thumb/Purple60/v4/9d/1e/5f/9d1e5f78-4a83-2b28-ba8a-add20f11aaf8/source.icns/100x100bb.png
+  description: |
+    WorkFlowy MenuApp is a must have tool for making lists and taking notes because they rightly say "It's simple enough for a shopping list, and powerful enough to run a company."
+  subtitle: Workflowy Helper for Mac
+  appstore_url: https://itunes.apple.com/us/app/workflowy-menuapp/id965079797?mt=12
+

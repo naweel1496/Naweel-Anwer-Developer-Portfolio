@@ -164,6 +164,28 @@ div.home-page {
 }
 
 /**
+ * My Apps Page
+ */
+div.my-apps {
+  header { 
+    font-size: 50px;
+    text-align: center;
+    padding-bottom: 50px;
+  }
+  section {
+    padding: 50px 0px;
+    h2 {
+      padding: 0px;
+      margin: 0px;
+    }
+    p.sub-title {
+      font-size: $small-font-size;
+    }
+    border-top: 1px solid #dad9d9;
+  }
+}
+
+/**
  * Wrapper
  */
 .wrapper {
