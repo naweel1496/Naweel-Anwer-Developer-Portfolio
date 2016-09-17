@@ -87,7 +87,7 @@ a {
     text-decoration: none;
 
     &:hover {
-        color: darken($brand-color, 65%);;
+        color: darken($brand-color, 65%);
         text-decoration: none;
     }
 }
@@ -99,20 +99,21 @@ p.mac-store {
     font-size: small;
     border-radius: 12px;
     color: #ffffff;
-    background: #0a6c3e;
-    padding: 3px 15px;// 3px 25px;
+    background: $brand-color;
+    padding: 3px 15px;
     text-decoration: none;
-    // &:hover {
-      // background: #1b9457;
-      // text-decoration: none;
-    // }
-  span {
-        padding-right: 5px;
-        display: inline-block;
-        width: $base-font-size;
-        vertical-align: middle;
-      }
 
+    &:hover {
+      color: #ffffff;
+      background: lighten($brand-color, 5%);
+    }
+  
+    span {
+      padding-right: 10px;
+      display: inline-block;
+      width: $base-font-size;
+      vertical-align: middle;
+    }
   }
 }
 /**
@@ -177,7 +178,7 @@ div.home-page {
       span {
         padding-right: 5px;
         display: inline-block;
-        width: 15px;
+        width: $base-font-size;
         vertical-align: middle;
       }
     }
