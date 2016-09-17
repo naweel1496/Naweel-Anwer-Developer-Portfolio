@@ -5,19 +5,35 @@ layout: default
 <div class="home-page">
   <img class="photo" src="https://avatars3.githubusercontent.com/u/2352321?v=3&amp;s=460" height="150" >
   <h1>{{ site.title }}</h1>
-  iOS Developer @ <a href="http://wingify.com/pune/">Wingify Software</a>
-  <p class="links">
-    <a href="/apps" >📱 My Apps</a> | 
-    <a href="/blog" >🖊 Blog</a> | 
-    <a href="{{ site.link_to.twitter }}">
-      <img src="https://twitter.com/favicon.ico">Twitter
-    </a> | 
+  iOS Developer @ <a href="http://wingify.com/pune/">Wingify</a>
+
+  <p class="work">
+    <a href="/apps" >
+      <span>{% include app.svg %}</span>
+      My Apps</a> | 
+    
+    <a href="/blog" >
+      <span>{% include blog.svg %}</span>
+      Blog</a> |   
     <a href="{{ site.link_to.github }}">
-      <img src="https://github.com/favicon.ico">GitHub
-    </a> | 
-    <a href="{{ site.link_to.linkedin }}">
-      <img src="https://www.linkedin.com/favicon.ico">LinkedIn
-    </a> | 
-    <a href="mailto: {{site.email}}">✉️ Email</a>
+      <span>{% include github.svg %}</span>Github
+    </a> |
+    <a href="{{ site.link_to.cocoa_all_pods }}">
+      <span>{% include cocoapods.svg %}</span>Cocoa Pods
+    </a>
   </p>  
+  <p class="social">
+    <a href="mailto: {{site.email}}">
+      <span>{% include mail.svg %}</span>
+    </a>
+    <a href="{{ site.link_to.twitter }}">
+      <span>{% include twitter.svg %}</span>
+    </a>
+    <a href="{{ site.link_to.facebook }}">
+      <span>{% include facebook.svg %}</span>
+    </a>
+    <a href="{{ site.link_to.linkedin }}">
+      <span>{% include linkedin.svg %}</span>
+    </a>
+  </p>
 </div>
