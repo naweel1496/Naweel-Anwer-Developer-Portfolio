@@ -29,7 +29,7 @@ body {
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-p {
+p, summary {
   margin-bottom: 8px;
 }
 
@@ -92,7 +92,29 @@ a {
     }
 }
 
+p.mac-store {
+  a {
+    -webkit-border-radius: 16;
+    -moz-border-radius: 16;
+    font-size: small;
+    border-radius: 12px;
+    color: #ffffff;
+    background: #0a6c3e;
+    padding: 3px 15px;// 3px 25px;
+    text-decoration: none;
+    // &:hover {
+      // background: #1b9457;
+      // text-decoration: none;
+    // }
+  span {
+        padding-right: 5px;
+        display: inline-block;
+        width: $base-font-size;
+        vertical-align: middle;
+      }
 
+  }
+}
 /**
  * Blockquotes
  */

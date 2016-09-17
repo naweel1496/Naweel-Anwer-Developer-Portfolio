@@ -10,7 +10,11 @@ permalink: /apps/
     <h2>{{ app.name }}</h2>
     <p class="sub-title">{{ app.subtitle }}</p>
     <summary>{{ app.description }}</summary>
-    <p><a href="{{app.appstore_url}}">View in Mac App Store</a></p>
+    <p class="mac-store">
+      <a href="{{app.appstore_url}}">
+        <span>{% include icons/app-store.svg %}</span>View in Mac App Store
+      </a>
+    </p>
   </section>
   {% endfor %}
 </div>
