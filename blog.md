@@ -4,7 +4,6 @@ permalink: /blog/
 ---
 
 <div >
-
   <ul class="post-list">
     {% for post in site.posts %}
       <li>

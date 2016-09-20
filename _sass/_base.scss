@@ -132,6 +132,17 @@ blockquote {
     }
 }
 
+div.go-home {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  svg {
+    padding-right: 5px;
+    display: inline-block;
+    width: $base-font-size * 2;
+    vertical-align: middle;
+  }
+}
 
 /**
  * Code formatting
