@@ -1,0 +1,21 @@
+---
+layout: post
+title: This blog
+---
+
+This blog is made using jekyll
+
+
+## References
+
+[http://biasedbit.com](http://biasedbit.com)
+
+[http://charliepark.org/happy-pride-2015/](http://charliepark.org/happy-pride-2015/)
+
+[http://www.cocoawithlove.com/](http://www.cocoawithlove.com/)
+
+[http://www.maximedefauw.com/](http://www.maximedefauw.com/)
+
+[http://marmelroy.github.io/](http://marmelroy.github.io/)
+
+[http://jordanscales.com/](http://jordanscales.com/)
