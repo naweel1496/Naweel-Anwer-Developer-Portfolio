@@ -31,4 +31,7 @@ Autolayout library by Linkedin.
 [DSL](https://en.wikipedia.org/wiki/Domain-specific_language) to make autolayout easy on iOS and macOS
 
 #### [Gecco](https://github.com/yukiasai/Gecco)
- Simply highlight items for your tutorial walkthrough, written in Swift 
+Simply highlight items for your tutorial walkthrough, written in Swift 
+
+#### [SwiftyAttributes](https://github.com/eddiekaiger/SwiftyAttributes)
+Swift extensions that make it a breeze to work with attributed strings.
