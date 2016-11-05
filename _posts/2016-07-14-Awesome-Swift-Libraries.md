@@ -35,3 +35,7 @@ Simply highlight items for your tutorial walkthrough, written in Swift
 
 #### [SwiftyAttributes](https://github.com/eddiekaiger/SwiftyAttributes)
 Swift extensions that make it a breeze to work with attributed strings.
+
+#### [RazzleDazzle](https://github.com/IFTTT/RazzleDazzle)
+Add scrollview-powered animations to the app intro of your iOS app
+
