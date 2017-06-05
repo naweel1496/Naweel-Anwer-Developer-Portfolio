@@ -5,4 +5,4 @@ permalink: /about/
 ---
 Hi,
 
-I am Kaunteya. I make apps for Mac & iPhone
+I am Naweel Anwer. 
