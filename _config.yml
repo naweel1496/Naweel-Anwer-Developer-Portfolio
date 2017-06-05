@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Kaunteya Suryawanshi
-email: k.suryawanshi@gmail.com
+title: Naweel Anwer
+email: naweel.a1496@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kaunteya.github.io" # the base hostname & protocol for your site
-twitter_username: kaunteya28
-github_username:  Kaunteya
+url: "https://naweel1496.github.io" # the base hostname & protocol for your site
+twitter_username: naweel_anwer
+github_username:  naweel1496
 
 permalink:  none
 
@@ -23,10 +23,8 @@ permalink: none
 
 # URLS
 link_to:
-  facebook:        https://www.facebook.com/kaunteya
-  github:          https://github.com/kaunteya
-  twitter:         https://twitter.com/kaunteya28
-  linkedin:        https://in.linkedin.com/pub/kaunteya-suryawanshi/3b/51b/7a
-  cocoa_all_pods:  https://cocoapods.org/owners/7316
-  itunes_all_apps: https://itunes.apple.com/us/developer/kaunteya-suryawanshi/id927381428
-  github_profile_pic: https://avatars3.githubusercontent.com/u/2352321?v=3&s=460
+  facebook:        https://www.facebook.com/nabeel.A1496
+  github:          https://github.com/naweel1496
+  twitter:         https://twitter.com/naweel_anwer
+  linkedin:        https://www.linkedin.com/in/naweel1496/
+  github_profile_pic: https://avatars0.githubusercontent.com/u/16776409?v=3&u=229e157816bb7facefa101872d86981092ac680e&s=400
